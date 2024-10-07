@@ -1,0 +1,3 @@
+Patient Name: Jane Smith
+Condition: Hypertension
+Medication: Lisinopril 10mg
